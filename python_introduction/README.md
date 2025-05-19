@@ -19,7 +19,9 @@ When executed, your script should print the following (assuming number1 = 10 and
 **Here is the outcome:**
 
 *Addition of 10 and 5 is 15*
+
 *Subtraction of 10 and 5 is 5*
+
 *Multiplication of 10 and 5 is 50*
 
 **GitHub repository: alx_be_python**
