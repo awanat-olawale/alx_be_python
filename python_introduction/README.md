@@ -51,3 +51,25 @@ When executed, your script should print the simple interest calculated with the 
 **Directory: python_introduction**
 
 **File: simple_interest.py**
+
+## 2. Calculate the Area of a Rectangle
+
+### Objective: 
+
+Use basic Python arithmetic operations and variable assignments to calculate the area of a rectangle using its length and width.
+
+### Task Description:
+
+For this task, you are to write a Python script that calculates the area of a rectangle. The area of a rectangle is found by multiplying its length by its width.
+
+**Expected Output:**
+
+When executed, your script, with the provided values (length = 10 and width = 5), should print the area of the rectangle:
+
+*The area of the rectangle is: 50*
+
+**GitHub repository: alx_be_python**
+
+**Directory: python_introduction**
+
+**File: rectangle_area.py**
