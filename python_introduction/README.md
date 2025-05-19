@@ -1,10 +1,12 @@
-# 0. Basic Arithmetic Exercise
+# TASKS
 
-## Objective: 
+## 0. Basic Arithmetic Exercise
+
+### Objective: 
 
 To practice basic arithmetic operations in Python by performing predefined calculations.
 
-## Task Description:
+### Task Description:
 
 You are required to complete a Python script that performs basic arithmetic operations with two predefined numbers. The script should do the following:
 
@@ -16,9 +18,9 @@ When executed, your script should print the following (assuming number1 = 10 and
 
 **Here is the outcome:**
 
-*Addition of 10 and 5 is 15
-Subtraction of 10 and 5 is 5
-Multiplication of 10 and 5 is 50*
+*Addition of 10 and 5 is 15*
+*Subtraction of 10 and 5 is 5*
+*Multiplication of 10 and 5 is 50*
 
 **GitHub repository: alx_be_python**
 
