@@ -6,7 +6,7 @@ num2 = int(input("Enter the second number: "))
 operation = input("Choose the operation (+, -, *, /): ")
 
 #Advanced control flow logic
-match operation_type:
+match operation:
     case '+':
         print(f"The result is {num1 + num2}")
     case '-':
