@@ -3,7 +3,7 @@
 #Accepting user inputs
 num1 = int(input("Enter the first number: "))
 num2 = int(input("Enter the second number: "))
-operation_type = input("Choose the operation (+, -, *, /):. ")
+operation_type = input("Choose the operation (+, -, *, /): ")
 
 #Advanced control flow logic
 match operation_type:
